@@ -48,7 +48,7 @@ TitleBar.Parent = MainFrame
 local TitleLabel = Instance.new("TextLabel")
 TitleLabel.Size = UDim2.new(1, -80, 1, 0)
 TitleLabel.Position = UDim2.new(0, 10, 0, 0)
-TitleLabel.Text = "Carnality GUI | V0.5 (Delta Edition)"
+TitleLabel.Text = "Carnality GUI | V0.5 (Public Test)"
 TitleLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TitleLabel.BackgroundTransparency = 1
 TitleLabel.TextScaled = true
@@ -178,7 +178,7 @@ addCategoryButton("Credits", 10, function()
     local CreditsText = Instance.new("TextLabel")
     CreditsText.Size = UDim2.new(0.9, 0, 0.8, 0)
     CreditsText.Position = UDim2.new(0.05, 0, 0.1, 0)
-    CreditsText.Text = "Scripted by: Alpha\nDiscord: discord.gg/yourserver\nYouTube: youtube.com/@yourchannel"
+    CreditsText.Text = "Scripted by: C00lShIn3\nDiscord: discord.gg/82hMwkxaA7\nYouTube: youtube.com/@E.xposure\nTHIS IS IN BETA AND MAY NOT WORK PROPERLY!"
     CreditsText.TextColor3 = Color3.fromRGB(255, 255, 255)
     CreditsText.BackgroundTransparency = 1
     CreditsText.TextScaled = true
